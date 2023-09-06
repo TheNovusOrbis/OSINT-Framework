@@ -150,7 +150,7 @@
         "url": "https://thatsthem.com/reverse-email-lookup"
       },
       {
-        "name": "Hunter",
+        "name": "Hunter (free trial, paid)",
         "type": "url",
         "url": "https://hunter.io/"
       },
@@ -160,24 +160,19 @@
         "url": "https://www.melissadata.com/lookups/emails.asp"
       },
       {
-        "name": "Pipl",
+        "name": "Pipl (paid)",
         "type": "url",
         "url": "https://pipl.com/"
       },
       {
-        "name": "VoilaNorbert",
+        "name": "VoilaNorbert (free trial, paid)",
         "type": "url",
         "url": "https://www.voilanorbert.com/"
       },
       {
-        "name": "Reverse Genie Email",
-        "type": "url",
-        "url": "https://www.reversegenie.com/email.php"
-      },
-      {
         "name": "theHarvester (T)",
         "type": "url",
-        "url": "https://www.edge-security.com/theharvester.php"
+        "url": "https://github.com/laramies/theHarvester"
       },
       {
         "name": "Infoga (T)",
@@ -185,30 +180,40 @@
         "url": "https://github.com/m4ll0k/infoga"
       },
       {
-        "name": "MailDB",
-        "type": "url",
-        "url": "https://maildb.io/"
-      },
-      {
         "name": "Skymem",
         "type": "url",
         "url": "https://www.skymem.info/"
       },
       {
-        "name": "MailsHunt",
+        "name": "h8mail (T) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.",
         "type": "url",
-        "url": "https://mailshunt.com/"
+        "url": "https://github.com/khast3x/h8mail"
+      },
+      {
+        "name": "Snov.io - Find email addresses on any website.",
+        "type": "url",
+        "url": "https://snov.io/email-finder"
+      },
+      {
+        "name": "GHunt (T} - Investigate Google emails and documents.",
+        "type": "url",
+        "url": "https://github.com/mxrch/GHunt"
+      },
+      {
+        "name": "Holehe (T) - check the mail is used on different sites with the forgotten password function.",
+        "type": "url",
+        "url": "https://github.com/megadose/holehe"
+      },
+      {
+        "name": "ffindemail (R)",
+        "type": "url",
+        "url": "https://www.findemails.com/"
       }],
       "name": "Email Search",
       "type": "folder"
     },
     {
       "children": [
-      {
-        "name": "Corporatate Email Formats",
-        "type": "url",
-        "url": "https://sites.google.com/site/emails4corporations/home"
-      },
       {
         "name": "Email Format",
         "type": "url",
@@ -235,27 +240,27 @@
     {
       "children": [
       {
-        "name": "MailTester",
+        "name": "Emailhippo",
         "type": "url",
-        "url": "https://mailtester.com/testmail.php"
+        "url": "https://tools.emailhippo.com/"
       },
       {
-        "name": "VerifyEmail",
+        "name": "Mailtester",
+        "type": "url",
+        "url": "https://mailtester.com/en/"
+      },      
+      {
+        "name": "VerifyEmail (R)",
         "type": "url",
         "url": "https://verify-email.org/"
       },
       {
-        "name": "Email Validator",
-        "type": "url",
-        "url": "https://e-mailvalidator.com/index.php"
-      },
-      {
-        "name": "BytePlant Email Validator",
+        "name": "BytePlant Email Validator (free trial, paid)",
         "type": "url",
         "url": "https://www.email-validator.net/"
       },
       {
-        "name": "Read Notify",
+        "name": "Read Notify (R)",
         "type": "url",
         "url": "https://www.readnotify.com/"
       },
@@ -268,6 +273,11 @@
         "name": "MailboxValidator",
         "type": "url",
         "url": "https://www.mailboxvalidator.com/demo"
+      },
+      {
+        "name": "mxtoolbox - Free online tools to investigate/troubleshoot email server issues.",
+        "type": "url",
+        "url": "https://mxtoolbox.com/"
       }],
       "name": "Email Verification",
       "type": "folder"
@@ -290,19 +300,19 @@
         "url": "https://intelx.io/"
       },
       {
-        "name": "Vigilante.pw",
-        "type": "url",
-        "url": "https://www.vigilante.pw/"
-      },
-      {
-        "name": "Breach or Clear",
-        "type": "url",
-        "url": "https://breachorclear.jesterscourt.cc/"
-      },
-      {
         "name": "Ashley Madison Emails",
         "type": "url",
         "url": "https://ashley.cynic.al/"
+      },
+      {
+        "name": "Holehe (T) - check the mail is used on different sites with the forgotten password function.",
+        "type": "url",
+        "url": "https://github.com/megadose/holehe"
+      },
+      {
+        "name": "LeakCheck",
+        "type": "url",
+        "url": "https://leakcheck.io/"
       }],
       "name": "Breach Data",
       "type": "folder"
@@ -350,11 +360,6 @@
         "url": "https://whois.domaintools.com/"
       },
       {
-        "name": "Domain Big Data",
-        "type": "url",
-        "url": "https://domainbigdata.com/"
-      },
-      {
         "name": "Whoisology",
         "type": "url",
         "url": "https://whoisology.com/#advanced"
@@ -400,11 +405,6 @@
         "url": "https://who.is/"
       },
       {
-        "name": "Whois AMPed",
-        "type": "url",
-        "url": "https://whoisamped.com/"
-      },
-      {
         "name": "ViewDNS.info",
         "type": "url",
         "url": "https://viewdns.info/"
@@ -425,19 +425,14 @@
     {
       "children": [
       {
-        "name": "Aquatone (T)",
+        "name": "Aquatone (TT (archived)",
         "type": "url",
         "url": "https://github.com/michenriksen/aquatone"
       },
       {
-        "name": "FindSubDomains",
-        "type": "url",
-        "url": "https://findsubdomains.com/"
-      },
-      {
         "name": "Google Subdomains (D)",
         "type": "url",
-        "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
+        "url": "https://www.google.com/?gws_rd=sss&q=site:%3Cdomain.com%3E"
       },
       {
         "name": "Recon-ng (T)",
@@ -445,7 +440,7 @@
         "url": "https://github.com/lanmaster53/recon-ng"
       },
       {
-        "name": "XRay",
+        "name": "XRay (T)",
         "type": "url",
         "url": "https://github.com/evilsocket/xray"
       },
@@ -467,12 +462,12 @@
       {
         "name": "Bluto (T)",
         "type": "url",
-        "url": "https://github.com/RandomStorm/Bluto"
+        "url": "https://github.com/darryllane/Bluto"
       },
       {
         "name": "theHarvester (T)",
         "type": "url",
-        "url": "https://www.edge-security.com/theharvester.php"
+        "url": "https://github.com/laramies/theHarvester"
       },
       {
         "name": "Pentest-tools.com Subdomains",
@@ -495,17 +490,7 @@
         "url": "https://github.com/hrbrmstr/gdns"
       },
       {
-        "name": "assetnote (T)",
-        "type": "url",
-        "url": "https://github.com/infosec-au/assetnote"
-      },
-      {
-        "name": "Network Intelligence",
-        "type": "url",
-        "url": "https://netintel.net/"
-      },
-      {
-        "name": "Sublist3r",
+        "name": "Sublist3r (T)",
         "type": "url",
         "url": "https://github.com/aboul3la/Sublist3r"
       },
@@ -525,7 +510,7 @@
         "url": "https://www.shodan.io/"
       },
       {
-        "name": "Kraken",
+        "name": "Kraken (T)",
         "type": "url",
         "url": "https://github.com/Sw4mpf0x/Kraken"
       },
@@ -540,17 +525,12 @@
         "url": "https://www.dailychanges.com/"
       },
       {
-        "name": "SameID",
-        "type": "url",
-        "url": "https://sameid.net/"
-      },
-      {
         "name": "Redirect Detective",
         "type": "url",
         "url": "https://redirectdetective.com/"
       },
       {
-        "name": "Sitediff",
+        "name": "Sitediff (T)",
         "type": "url",
         "url": "https://github.com/digininja/sitediff"
       },
@@ -567,12 +547,7 @@
       {
         "name": "Google's Certificate Transparency",
         "type": "url",
-        "url": "https://www.certificate-transparency.org/known-logs"
-      },
-      {
-        "name": "Spyse",
-        "type": "url",
-        "url": "https://spyse.com/search/certificate"
+        "url": "https://github.com/google/certificate-transparency-community-site/blob/master/docs/google/known-logs.md"
       },
       {
         "name": "Censys",
@@ -2817,6 +2792,154 @@
     "name": "Instant Messaging",
     "type": "folder"
   },
+    {
+      "children": [
+      {
+        "children":[
+          {
+            "name": "PolitiFact",
+            "type": "url",
+            "url": "https://www.politifact.com/"
+          },  
+          {
+        "name":"Factcheck",
+        "type": "url",
+        "url": "https://www.factcheck.org"
+        },
+        {
+        "name": "Duke Reporters' Lab",
+        "type": "url",
+        "url": "https://reporterslab.org/fact-checking/"
+      },
+            {
+        "name": "Stop Fake",
+        "type": "url",
+        "url": "https://www.stopfake.org/en"
+      },
+       {
+        "name": "Snopes",
+        "type": "url",
+        "url": "https://www.snopes.com/"
+      },
+      {
+        "name": "About Urban Legends",
+        "type": "url",
+        "url": "http://urbanlegends.about.com/"
+      },
+      {
+        "name": "Captin Fact,",
+        "type": "url",
+        "url": "https://captainfact.io/"
+      },
+        {
+        "name": "Captin Fact,",
+        "type": "url",
+        "url": "https://captainfact.io/"
+      }    
+        ],
+        "name": "Global Fact Checkers",
+        "type": "folder"
+      },
+      {
+        "children":[
+               {
+        "name": "Africa Check (Africa)",
+        "type": "url",
+        "url": "https://africacheck.org/"
+      },
+      {
+        "name": "Factcheck.bg (Bulgaria)",
+        "type": "url",
+        "url": "https://factcheck.bg/en/"
+      },
+      {
+        "name": "Fip.am (Armenian)",
+        "type": "url",
+        "url": "https://fip.am/en/"
+      },
+      {
+        "name": "factcheck.kz (Kazakhstan)",
+        "type": "url",
+        "url": "https://factcheck.kz"
+      },
+      {
+        "name": "provereno.media (Georgi)",
+        "type": "url",
+        "url": "https://provereno.media"
+      },
+      {
+        "name": "Factcheck.ge (Georgia)",
+        "type": "url",
+        "url": "https://provereno.media"
+      }
+        ],
+        "name": "National Fact Checkers",
+        "type": "folder"
+      },  
+      {
+        "children":[
+
+        {
+          "children":[
+            {
+              "name": "Hoaxy2 - Visualize the spread of information on Twitter",
+              "type": "url",
+              "url": "https://hoaxy.iuni.iu.edu/"
+           },
+           {
+              "name": "Check - Connect with your audience directly to address misinformation",
+              "type": "url",
+              "url": "https://meedan.com/check"
+           }
+        ],
+          "name": "Social Networks",
+          "type": "folder"
+         },
+         {
+            "children":[
+                         {
+              "name": "FullFact (US) - MP’s track record on honest politics",
+              "type": "url",
+              "url": "https://fullfact.org/"
+           }
+              ],
+            "name": "Politician index",
+            "type": "folder"
+        }
+        ],
+        "name": "Tools",
+        "type": "folder"
+      },
+      {
+        "children":[
+              {
+        "name": "Stop Fake Tools",
+        "type": "url",
+        "url": "https://www.stopfake.org/en/category/tools/"
+      },
+            {
+        "name": "Verification Handbook",
+        "type": "url",
+        "url": "https://verificationhandbook.com/"
+      },
+            {
+        "name": "First Draft News",
+        "type": "url",
+        "url": "https://firstdraftnews.org/"
+      },
+                           {
+        "name": "POYNTER fact-checking guide for journalists",
+        "type": "url",
+        "url": "https://factcheck.bg/en/poynter-presents-fact-checking-guide-for-journalists/"
+      }
+        ],
+        "name": "Guides",
+        "type": "folder"
+      }      
+      ],
+      "name": "Fact Checking",
+      "type": "folder"
+    },
   {
     "children": [
     {
@@ -4217,11 +4340,6 @@
         "url": "https://search.yahoo.com/web/advanced"
       },         
       {
-        "name": "DuckDuckGo",
-        "type": "url",
-        "url": "https://duckduckgo.com/"
-      },        
-      {
         "name": "Brave",
         "type": "url",
         "url": "https://search.brave.com/"
@@ -4250,6 +4368,11 @@
         "name": "Google",
         "type": "url",
         "url": "https://www.google.com/?gws_rd=ssl"
+      },
+      {
+        "name": "Million Short - web search engine that allows you to filter and refine your search results set.",
+        "type": "url",
+        "url": "https://millionshort.com/"
       },
       {
         "name": "Google Advanced Search",
@@ -4356,6 +4479,11 @@
     },
     {
       "children": [
+      {
+        "name": "Searx (instaces)",
+        "type": "url",
+        "url": "https://searx.space/"
+      },
        {
         "name": "StartPage",
         "type": "url",
@@ -4365,56 +4493,66 @@
         "name": "Advangle",
         "type": "url",
         "url": "https://advangle.com/"
+      },   
+       {
+        "name": "DuckDuckGo",
+        "type": "url",
+        "url": "https://duckduckgo.com/"
+      },    
+      {
+        "name": "All-in-One",
+        "type": "url",
+        "url": "http://all-io.net/"
+      },
+      {
+        "name": "AllTheInternet",
+        "type": "url",
+        "url": "http://www.alltheinternet.com/"
       },      
       {
-        "name": "iSEEK",
+        "name": "Etools",
         "type": "url",
-        "url": "https://iseek.com/iseek/home.page"
-      },
+        "url": "http://www.etools.ch/"
+      },    
+       {
+        "name": "FaganFinder",
+        "type": "url",
+        "url": "http://www.faganfinder.com/engines"
+      },  
+        {
+        "name": "Goofram",
+        "type": "url",
+        "url": "http://www.goofram.com/"
+      },   
+          {
+        "name": "iZito",
+        "type": "url",
+        "url": "http://www.izito.com/"
+      },   
+      {
+        "name": "Myallsearch",
+        "type": "url",
+        "url": "http://www.myallsearch.com/"
+      },  
+       {
+        "name": "Qwant",
+        "type": "url",
+        "url": "http://www.qwant.com/"
+      },  
+       {
+        "name": "Swisscows",
+        "type": "url",
+        "url": "https://swisscows.com/"
+      },      
       {
          "name": "Search.com",
         "type": "url",
         "url": "https://www.search.com/"
       },     
       {
-        "name": "Biznar",
-        "type": "url",
-        "url": "https://biznar.com/biznar/desktop/en/search.html"
-      },
-      {
-        "name": "Carrot2",
-        "type": "url",
-        "url": "https://search.carrot2.org/stable/search"
-      },
-      {
         "name": "Yippy",
         "type": "url",
         "url": "https://yippy.com/"
-      },
-      {
-        "name": "eTools.ch",
-        "type": "url",
-        "url": "https://www.etools.ch/"
-      },
-      {
-        "name": "searx.me",
-        "type": "url",
-        "url": "https://searx.me/"
-      },
-      {
-        "name": "Addictomatic",
-        "type": "url",
-        "url": "https://addictomatic.com/"
-      },
-      {
-        "name": "WhosTalkin",
-        "type": "url",
-        "url": "https://www.whostalkin.com/"
-      },
-      {
-        "name": "DMOZ",
-        "type": "url",
-        "url": "https://www.dmoz.org/"
       },
       {
         "name": "AnswerThePublic.com",
@@ -4442,7 +4580,22 @@
         "url": "https://nerdydata.com/search"
       },
       {
-        "name": "Gitrob (T)",
+        "name": "SourceGraph",
+        "type": "url",
+        "url": "https://sourcegraph.com/search"
+      }, 
+      {
+        "name": "grep.app",
+        "type": "url",
+        "url": "https://grep.app/"
+      },         
+       {
+        "name": "Reposearch",
+        "type": "url",
+        "url": "http://codefinder.org/"
+      },     
+      {
+        "name": "Gitrob (T) (archived)",
         "type": "url",
         "url": "https://github.com/michenriksen/gitrob"
       },
@@ -4450,26 +4603,21 @@
         "name": "Github-Dorks (T)",
         "type": "url",
         "url": "https://github.com/techgaun/github-dorks"
-      },
-      {
-        "name": "GitLeaks",
-        "type": "url",
-        "url": "https://gitleaks.com/"
       }],
       "name": "Code Search",
       "type": "folder"
     },
     {
-      "children": [
-      {
-        "name": "GlobalFile",
-        "type": "url",
-        "url": "https://globalfilesearch.com/"
-      },
+      "children":[
       {
         "name": "FTP Google Dork (D)",
         "type": "url",
         "url": "https://www.google.com/search?q=inurl%3Aftp+-inurl%3Ahttp+-inurl%3Ahttps+ftpsearchterm"
+      },
+      {
+        "name": "mmnt - russian ftp search",
+        "type": "url",
+        "url": "https://www.mmnt.ru/"
       },
       {
         "name": "Napalm FTP",
@@ -4477,15 +4625,126 @@
         "url": "https://www.searchftps.net/"
       },
       {
-        "name": "FileMare",
+        "name": "Napalm FTP",
         "type": "url",
-        "url": "https://filemare.com/en-us"
-      }],
-      "name": "FTP Search",
+        "url": "https://www.searchftps.net/"
+      },
+       {
+        "name": "File Search Engine",
+        "type": "url",
+        "url": "https://www.filesearch.link/"
+      },
+       {
+        "name": "de digger - find files that are publicly avilable in a Google Drive.",
+        "type": "url",
+        "url": "https://www.dedigger.com/"
+      },
+        {
+        "name": "FilePursuit",
+        "type": "url",
+        "url": "https://filepursuit.com/"
+      },
+         {
+        "name": "SearchFiles.de",
+        "type": "url",
+        "url": "https://searchfiles.de/"
+      },   
+      {
+        "name": "FileListing",
+        "type": "url",
+        "url": "https://filelisting.com/"
+      }     
+        ],
+       "name": "File Search",
       "type": "folder"
     },
     {
       "children": [
+        {
+        "name": "Academia",
+        "type": "url",
+        "url": "https://www.academia.edu/"
+      },      
+        {
+        "name": "African Journal Online",
+        "type": "url",
+        "url": "http://www.ajol.info/"
+      },      
+          {
+        "name": "American Society of Civil Engineers",
+        "type": "url",
+        "url": "http://ascelibrary.org/"
+      },    
+         {
+        "name": "Bibsonomy",
+        "type": "url",
+        "url": "http://www.bibsonomy.org/"
+      },     
+         {
+        "name": "Core",
+        "type": "url",
+        "url": "https://core.ac.uk/search"
+      },      
+      {
+        "name": "Elsevier",
+        "type": "url",
+        "url": "https://www.elsevier.com/"
+      },
+      {
+        "name": "Grey Guide",
+        "type": "url",
+        "url": "http://greyguide.isti.cnr.it/"
+      },      
+       {
+        "name": "Grey Literature – List of Gateways",
+        "type": "url",
+        "url": "http://csulb.libguides.com/graylit"
+      },     
+        {
+        "name": "Grey Literature Strategies",
+        "type": "url",
+        "url": "http://greylitstrategies.info/"
+      },  
+        {
+        "name": "GreyNet International",
+        "type": "url",
+        "url": "http://www.greynet.org/"
+      },       
+        {
+        "name": "HighWire: Free Online Full-text Articles",
+        "type": "url",
+        "url": "http://highwire.stanford.edu/lists/freeart.dtl"
+      },      
+         {
+        "name": "Journal Guide",
+        "type": "url",
+        "url": "https://www.journalguide.com/"
+      },
+       {
+        "name": "Journal Seek",
+        "type": "url",
+        "url": "http://journalseek.net/"
+      },    
+        {
+        "name": "Open Access Scientific Journals",
+        "type": "url",
+        "url": "http://www.pagepress.org/"
+      },     
+        {
+        "name": "JSTOR",
+        "type": "url",
+        "url": "http://www.jstor.org/"
+      },    
+         {
+        "name": "Leibniz Information Centre For Science and Technology University Library",
+        "type": "url",
+        "url": "https://www.tib.eu/en/search-discover/"
+      },     
+          {
+        "name": "Canadian Science Pub",
+        "type": "url",
+        "url": "https://cdnsciencepub.com/"
+      },          
       {
         "name": "PubPeer",
         "type": "url",
@@ -4496,6 +4755,52 @@
         "type": "url",
         "url": "https://www.base-search.net/Search/Advanced"
       },
+       {
+        "name": "OA.mg",
+        "type": "url",
+        "url": "http://oa.mg/"
+      },     
+        {
+        "name": "Oxford Journals",
+        "type": "url",
+        "url": "http://www.oxfordjournals.org/"
+      },     
+       {
+        "name": "Research Gate",
+        "type": "url",
+        "url": "http://www.researchgate.net/"
+      },    
+       {
+        "name": "SAGE Journals",
+        "type": "url",
+        "url": "http://online.sagepub.com/"
+      },          
+       {
+        "name": "SCIRP",
+        "type": "url",
+        "url": "http://www.scirp.org/"
+      },      
+        {
+        "name": "Springer",
+        "type": "url",
+        "url": "http://link.springer.com/"
+      },       
+        {
+        "name": "ScienceDomain",
+        "type": "url",
+        "url": "http://www.sciencedomain.org/"
+      },      
+        {
+        "name": "Taylor & Francis Online",
+        "type": "url",
+        "url": "http://www.tandfonline.com/"
+      },
+        {
+        "name": "World Digital Library",
+        "type": "url",
+        "url": "http://www.wdl.org/"
+      },      
+      
       {
         "name": "Google Scholar",
         "type": "url",
@@ -4522,11 +4827,6 @@
         "url": "https://www.wdl.org/en/"
       },
       {
-        "name": "JURN",
-        "type": "url",
-        "url": "https://jurn.org/#gsc.tab=0"
-      },
-      {
         "name": "HathiTrust Digital Library",
         "type": "url",
         "url": "https://www.hathitrust.org/"
@@ -4549,12 +4849,7 @@
       {
         "name": "OpenDOAR",
         "type": "url",
-        "url": "https://www.opendoar.org/search.php"
-      },
-      {
-        "name": "Microsoft Academic",
-        "type": "url",
-        "url": "https://academic.microsoft.com/"
+        "url": "https://v2.sherpa.ac.uk/opendoar/"
       },
       {
         "name": "Science Direct",
@@ -4592,11 +4887,6 @@
         "url": "https://www.pagepress.org/"
       },
       {
-        "name": "The Open Syllabus Project",
-        "type": "url",
-        "url": "https://explorer.opensyllabusproject.org/"
-      },
-      {
         "name": "Science Publications",
         "type": "url",
         "url": "https://www.thescipub.com/"
@@ -4605,12 +4895,27 @@
         "name": "arXiv.org",
         "type": "url",
         "url": "https://arxiv.org/"
+      },
+      {
+        "name": "CiteSeerX - scientific search computer science",
+        "type": "url",
+        "url": "https://citeseer.ist.psu.edu/"
       }],
-      "name": "Academic / Publication Search",
+      "name": "Academic literature Search",
       "type": "folder"
     },
     {
       "children": [
+        {
+        "name": "NewsWhip - real time media monitoring and prediction",
+        "type": "url",
+        "url": "https://www.newswhip.com/"
+      },
+       {
+        "name": "Storyful - social news and strategic intelligence agency",
+        "type": "url",
+        "url": "https://storyful.com/"
+      },
       {
         "name": "Paperboy Online Newspapers",
         "type": "url",
@@ -4632,12 +4937,12 @@
         "url": "https://www.yougotthenews.com/"
       },
       {
-        "name": "NewspaperARCHIVE.com",
+        "name": "NewspaperARCHIVE.com (paid, free trial)",
         "type": "url",
         "url": "https://newspaperarchive.com/"
       },
       {
-        "name": "PressReader.com",
+        "name": "PressReader.com (paid, free trial)",
         "type": "url",
         "url": "https://www.pressreader.com/"
       },
@@ -4676,11 +4981,12 @@
         "type": "url",
         "url": "https://www.inshorts.com/en/read"
       },
-      {
+       {
         "name": "NewsBot",
         "type": "url",
         "url": "https://getnewsbot.com/"
-      }],
+      }     
+      ],
       "name": "News Search",
       "type": "folder"
     },
@@ -4696,21 +5002,26 @@
         "type": "url",
         "url": "https://www.wolframalpha.com/"
       },     
+        {
+        "name": "AnalyzeID - Find Other Websites Owned By The Same Person",
+        "type": "url",
+        "url": "https://analyzeid.com/"
+      },      
        {
         "name": "Goodsearch - a search engine for shopping deals online.",
         "type": "url",
         "url": "https://www.goodsearch.com/"
-      },     
+      },  
+            {
+        "name": "AnswerThePublic - Get Instant, Raw Search Insights",
+        "type": "url",
+        "url": "https://answerthepublic.com/"
+      },
       {
         "name": "Ask - Ask something and get a answer.",
         "type": "url",
-        "url": "https://www.instya.com/#/web/"
+        "url": "https://www.ask.com/"
       },     
-      {
-        "name": "Yobi3D - 3D Model Search",
-        "type": "url",
-        "url": "https://www.yobi3d.com/#!/"
-      },
       {
         "name": "Colossus International Engine List",
         "type": "url",
@@ -4719,12 +5030,7 @@
       {
         "name": "SimilarSites",
         "type": "url",
-        "url": "https://www.similarsites.com/browse"
-      },
-      {
-        "name": "Economics Search Engine",
-        "type": "url",
-        "url": "https://ese.rfe.org/"
+        "url": "https://www.similarsites.com/"
       },
       {
         "name": "AOL Search Database",
@@ -4732,30 +5038,76 @@
         "url": "https://search-id.com/"
       },
       {
-        "name": "EntityCube",
+        "name": "2lingual Search - Google search in 2 languages",
         "type": "url",
-        "url": "https://entitycube.research.microsoft.com/"
+        "url": "http://www.2lingual.com/"
       },
       {
-        "name": "FindTheData A Research Engine",
+        "name": "Biznar - deep web search",
         "type": "url",
-        "url": "https://www.findthedata.com/"
+        "url": "http://biznar.com/"
+      },
+      {
+        "name": "OCCRP Aleph - global archive of research material for investigative reporting.",
+        "type": "url",
+        "url": "https://aleph.occrp.org/"
+      },
+      {
+        "name": "wayback-machine - Internet Archive",
+        "type": "url",
+        "url": "https://archive.org/"
+      },
+      {
+        "name": "WIPO - brand search",
+        "type": "url",
+        "url": "https://www3.wipo.int/branddb/en/"
       }],
       "name": "Other Search",
       "type": "folder"
     },
     {
+      "children":[
+      {
+        "name": "BeVigil - Search for assets like Subdomains, URLs, Parameters in mobile applications",
+        "type": "url",
+        "url": "https://bevigil.com/search"
+      },
+      {
+        "name": "Criminal IP - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform",
+        "type": "url",
+        "url": "https://www.criminalip.io/"
+      },
+      {
+        "name": "Intelligence X - search in tor, i2p, pastebins, data leaks, publuc web",
+        "type": "url",
+        "url": "https://intelx.io/"
+      },
+      {
+        "name": "Shodan - Search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.",
+        "type": "url",
+        "url": "https://www.shodan.io/"
+      }, 
+      {
+        "name": "Censys - Search engine for the IOT(Internet of Things), Ip addresses, hosts and etc.",
+        "type": "url",
+        "url": "https://search.censys.io/"
+      }, 
+      {
+        "name": "GrayhatWarfare - Search for buckets and shorteners",
+        "type": "url",
+        "url": "https://grayhatwarfare.com/"
+      },
+       {
+        "name": "Netlas - Internet intelligence app that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets",
+        "type": "url",
+        "url": "https://app.netlas.io/"
+      }     
+        ],
+      "name": "CyberSec Search",
+      "type": "folder"
+    },
+    {
       "children": [
-      {
-        "name": "Million Short",
-        "type": "url",
-        "url": "https://millionshort.com/"
-      },
-      {
-        "name": "SearchDiggity (T)",
-        "type": "url",
-        "url": "https://www.bishopfox.com/download/405/"
-      },
       {
         "name": "Scanner-inurlbr (T)",
         "type": "url",
@@ -4780,11 +5132,6 @@
         "name": "Talkwalker Alerts",
         "type": "url",
         "url": "https://www.talkwalker.com/alerts"
-      },
-      {
-        "name": "Google Correlate",
-        "type": "url",
-        "url": "https://www.google.com/trends/correlate/"
       }],
       "name": "Search Tools",
       "type": "folder"
@@ -4807,61 +5154,6 @@
         "url": "https://googleguide.com/help/calculator.html"
       }],
       "name": "Search Engine Guides",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "Hoaxy",
-        "type": "url",
-        "url": "https://hoaxy.iuni.iu.edu/"
-      },
-      {
-        "name": "Africa Check",
-        "type": "url",
-        "url": "https://africacheck.org/"
-      },
-      {
-        "name": "PolitiFact",
-        "type": "url",
-        "url": "https://www.politifact.com/"
-      },
-      {
-        "name": "SciCheck",
-        "type": "url",
-        "url": "https://www.factcheck.org/scicheck/"
-      },
-      {
-        "name": "Duke Reporters' Lab",
-        "type": "url",
-        "url": "https://reporterslab.org/fact-checking/"
-      },
-      {
-        "name": "Stop Fake Tools",
-        "type": "url",
-        "url": "https://www.stopfake.org/en/category/tools/"
-      },
-      {
-        "name": "Snopes",
-        "type": "url",
-        "url": "https://www.snopes.com/"
-      },
-      {
-        "name": "Verification Handbook",
-        "type": "url",
-        "url": "https://verificationhandbook.com/"
-      },
-      {
-        "name": "Verification Junkie",
-        "type": "url",
-        "url": "https://verificationjunkie.com/"
-      },
-      {
-        "name": "MediaBugs",
-        "type": "url",
-        "url": "https://mediabugs.org/"
-      }],
-      "name": "Fact Checking",
       "type": "folder"
     }],
     "name": "Search Engines",
